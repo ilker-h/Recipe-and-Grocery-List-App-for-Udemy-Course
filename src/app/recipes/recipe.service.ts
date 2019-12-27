@@ -16,7 +16,7 @@ export class RecipeService {
             new Ingredient('French Fries', 20)
         ]),
         new Recipe('Burger', 'Burger Description',
-         'https://drop.ndtv.com/albums/COOKS/pasta-vegetarian/pastaveg_640x480.jpg',
+         'https://thecheekychickpea.com/wp-content/uploads/2018/07/IMG_1013-2.jpg',
          [
              new Ingredient('Buns', 2),
              new Ingredient('Meat', 1)
